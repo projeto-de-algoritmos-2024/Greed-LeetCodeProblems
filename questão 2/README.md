@@ -8,7 +8,7 @@ Colocar print da questão resolvida
 
 [Link para a gravação]()
 
-#### Dificuldade: Difícil
+#### Dificuldade: Média
 
 ### Enunciado
 
