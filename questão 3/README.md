@@ -1,4 +1,5 @@
 ## 321. Create Maximum Number
+![image](imagens/titulo.png)
 
 [Link para a questão](https://leetcode.com/problems/create-maximum-number/description/)
 
@@ -43,3 +44,7 @@ n == nums2.length
 nums1 and nums2 do not have leading zeros.
 
 ### Submissões: 
+
+![image](imagens/submissions.png)
+
+![image](imagens/accepted.png)
