@@ -1,5 +1,5 @@
 ## 179. Largest Number
-![image](/imagens/titulo.png)
+![image](imagens/titulo.png)
 
 [Link para a questão](https://leetcode.com/problems/largest-number/description/)
 
@@ -34,6 +34,6 @@ Output: "9534330"
 
 ### Submissões: 
 
-![image](/imagens/submissions.png)
+![image](imagens/submissions.png)
 
-![image](/imagens/accepted.png)
+![image](imagens/accepted.png)
