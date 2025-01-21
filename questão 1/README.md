@@ -6,7 +6,7 @@ Colocar print da questão resolvida
 
 ### Gravação
 
-[Link para a gravação]()
+[Link para a gravação](https://youtu.be/8d-GFH15Mns)
 
 #### Dificuldade: Difícil
 
