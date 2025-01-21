@@ -1,6 +1,6 @@
 ## 857. Minimum Cost to Hire K Workers
 
-Colocar print da questão resolvida
+![{F51D24CA-E454-45FF-90FA-4017F9B7B4D4}](https://github.com/user-attachments/assets/3d90b616-bcb8-41ae-949f-f043776f94f7)
 
 [Link para a questão](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
 
@@ -42,5 +42,7 @@ n == quality.length == wage.length
 
 ### Submissões: 
 
+![{40515E90-5276-41B7-980E-F2CEDA9BD3B1}](https://github.com/user-attachments/assets/9320b6c1-4fae-4bc3-8478-fe8200883dbf)
 
+![{ADA2D50C-BE59-4880-AA41-D5B0B1373769}](https://github.com/user-attachments/assets/47ee7814-c811-4d7e-9bb1-47ac509e6e0d)
 
