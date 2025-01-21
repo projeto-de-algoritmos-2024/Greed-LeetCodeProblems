@@ -5,7 +5,7 @@
 
 ### Gravação
 
-[Link para a gravação]()
+[Link para a gravação](https://youtu.be/DVMSY00SRh8)
 
 #### Dificuldade: Média
 
@@ -21,7 +21,8 @@ Since the result may be very large, so you need to return a string instead of an
 
 Input: nums = [10,2]
 Output: "210"
-Example 2:
+
+**Example 2:**
 
 Input: nums = [3,30,34,5,9]
 Output: "9534330"
