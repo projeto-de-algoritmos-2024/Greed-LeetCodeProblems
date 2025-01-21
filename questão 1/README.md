@@ -1,4 +1,4 @@
-## 315. Count of Smaller Numbers After Self
+## 857. Minimum Cost to Hire K Workers
 
 Colocar print da questão resolvida
 
