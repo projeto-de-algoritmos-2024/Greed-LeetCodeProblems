@@ -1,6 +1,6 @@
 ## 435. Non-overlapping Intervals
 
-Colocar print da questão resolvida
+![{713230C7-22D9-44E6-9DC7-C21CFA0975D6}](https://github.com/user-attachments/assets/6500ca36-6c22-4e42-8f61-f28134938757)
 
 [Link para a questão](https://leetcode.com/problems/non-overlapping-intervals/description/)
 
@@ -43,6 +43,10 @@ intervals[i].length == 2
 
 ### Submissões: 
 
-Colocar print das submissões
+![{29A134C2-268F-4137-9D97-B533F04B5A85}](https://github.com/user-attachments/assets/5d27135d-d144-48f5-9519-3b40c9ae19b0)
+
+
+![{18486B33-12C0-4549-A40A-91888EC8B76A}](https://github.com/user-attachments/assets/7ce55961-aa51-4ee7-a298-52ea6937aa91)
+
 
 
